@@ -16,6 +16,7 @@ module Fatbundle
         end
           
         spec.load_paths.each do |path|
+          warn "Packing #{spec.name} from #{spec.gem_dir}"
           collect(path)
         end
       end
