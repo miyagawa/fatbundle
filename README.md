@@ -26,7 +26,7 @@ Gems with C-extension cannot be packaged properly, so they'll be ignored with wa
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/fatbundle.
+Bug reports and pull requests are welcome on GitHub at https://github.com/miyagawa/fatbundle.
 
 ## License
 
