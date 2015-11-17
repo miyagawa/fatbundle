@@ -1,6 +1,9 @@
 # Fatbundle
 
-Create a single fat bundle with all your gem dependencies in one Ruby script
+Create a single fat bundle with all your gem dependencies in one Ruby script.
+
+Turns out, this is mostly what `bundle install --standalone` does already, except that fatbundle creates a single executable, whereas bundler creates a directory with files in it. Read more about the bundler standalone mode at [Andre Arko's blog](http://andre.arko.net/2014/06/27/rails-in-05-seconds/).
+
 
 ## Installation
 
